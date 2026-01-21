@@ -42,6 +42,6 @@ public class Activity1 {
     public static void main(String[] args){
         int[] arr = {1, 36, 18, 120, 67};
         int n = arr.length;
-        System.out.println("Max: " + Integer.toString(findMax(arr, n)));
+        System.out.println("Max: " + findMax(arr, n));
     }
 }
