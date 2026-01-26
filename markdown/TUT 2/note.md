@@ -1,6 +1,6 @@
 <sub> Note: For optimal viewing, please read this document in Markdown format. </sub>
 
-🍃[^1] There is no markdown files for explanations in tutorial 2 since everything have been commented in the source code. 
+🍃[^1] There are no markdown files for explanations in tutorial 2 since everything have been commented in the source code. 
 
 `- Love you! -`
   
