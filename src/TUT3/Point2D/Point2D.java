@@ -13,6 +13,7 @@ public class Point2D {
         return Math.sqrt(Math.pow(this.x - x, 2) + Math.pow(this.y - y, 2));
     }
 
+    //the use of recursive method (you might want to draw this out for easier visualization)
     public double distance(Point2D p){
         return distance(p.getX(), p.getY());
     }
